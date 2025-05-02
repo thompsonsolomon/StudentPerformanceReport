@@ -1,5 +1,5 @@
 
-# 🎓 Student Performance Analysis Dashboard using R and Shiny
+# 🎓 Student Performance Analysis Dashboard Built  using R and Shiny(Stated on my KNowledge in Mathematics)
 
 ![R Version](https://img.shields.io/badge/R-4.0+-blue?logo=r)
 ![License](https://img.shields.io/badge/license-MIT-green)
