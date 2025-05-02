@@ -1,0 +1,10 @@
+# Ignore RData files
+*.RData
+
+# Ignore the reports folder since it contains generated files
+reports/
+
+# Ignore temporary files created by RStudio or IDEs
+.Rhistory
+.Rapp.history
+.Rproj.user/
