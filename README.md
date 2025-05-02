@@ -5,6 +5,8 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/project-active-brightgreen)
 ![Platform](https://img.shields.io/badge/platform-Shiny-blue)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=thompsonsolomon.StudentPerformanceReport)
+
 
 This project is a comprehensive data analysis and interactive dashboard built with **R** and **Shiny**. It focuses on exploring student performance using real-world academic data. The project demonstrates how statistical analysis and visualization can bring reveal insights about what factors most influence students’ academic outcomes.
 
