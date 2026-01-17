@@ -102,7 +102,7 @@ Open the `Performance_Report.Rmd` file in RStudio and click **Knit** to generate
 
 ## ✍️ Author
 
-**Thompson solomon A. (CEO SmartDev)**  
+**Thompson solomon Ayomideji. (CEO SmartDev)**  
 Frontend Engineer | Data Enthusiast | Educator  
 GitHub: [@RayThompson](https://github.com/thompsonsolomon)  
 Website: [@smartdevforge](https://smartdevforge.com/)  
