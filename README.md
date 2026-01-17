@@ -88,7 +88,7 @@ Open the `Performance_Report.Rmd` file in RStudio and click **Knit** to generate
 ## 🌐 Hosting Options
 
 - The Shiny dashboard can be deployed online using [ShinyApps.io](https://www.shinyapps.io/).
-- The RMarkdown report can be hosted on GitHub Pages or Netlify for easy sharing.
+- The RMarkdown report can be hosted on GitHub Pages, Netlify or Vercel for easy sharing.
 
 ---
 
